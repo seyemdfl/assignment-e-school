@@ -19,7 +19,7 @@
     color: tomato;
     font: bold;
 }
-.card img{
+.part-2 img{
     width: 100px;
     padding-bottom: 25px;
 }
@@ -38,5 +38,28 @@
     text-align: left;
 }
 .card-footer img{
-    width: 60px;
+    width: 20px;
+    align-items: flex-end;
+}
+.card-footer{
+border: none;
+}
+.part-4{
+    padding-top: 100px;
+    text-align: center;
+}
+.pic-1 img{
+    width: 150px;
+}
+.last-part{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 60px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    padding-bottom: 10px;
+}
+.col-1{
+    text-align: left;
 }
