@@ -7,6 +7,16 @@
 .half-width img{
     width: 100%;
 }
+.top-part{
+    background-color: #F0FFF0;
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+}
+.container{
+    background-color: #F0FFF0;
+}
 .sign-in-button{
     background-color: #21B573;
     border: none;
@@ -19,24 +29,6 @@
     color: tomato;
     font: bold;
 }
-.card img{
-    width: 100px;
-    padding-bottom: 25px;
-}
-.card{
-    top: 50px;
-    padding-bottom: 50px;
-    border: none;
-    align-content: center;
-    box-shadow: 5px 5px 10px lightgray;
-}
-.part-3{
-    padding-top: 100px;
-    text-align: center;
-}
-.card-body{
-    text-align: left;
-}
-.card-footer img{
-    width: 60px;
+.navbar-brand img{
+    width: 100%;
 }

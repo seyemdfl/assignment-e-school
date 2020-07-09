@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,88 +52,40 @@
         <div class="container">
             <div class="card-deck">
                 <div class="card">
-                  <img src="Images/ICON/book.png" class="card-img-top" alt="...">
+                  <img src="..." class="card-img-top" alt="...">
                   <div class="card-body">
-                    <h5 class="card-title">1500+ Topic</h5>
-                    <p class="card-text">Learn anything.</p>
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
                 <div class="card">
-                  <img src="Images/ICON/Student.png" class="card-img-top" alt="...">
+                  <img src="..." class="card-img-top" alt="...">
                   <div class="card-body">
-                    <h5 class="card-title">1800+ Students</h5>
-                    <p class="card-text">Learn Anything</p>
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
                 <div class="card">
-                  <img src="Images/ICON/Test.png" class="card-img-top" alt="...">
+                  <img src="..." class="card-img-top" alt="...">
                   <div class="card-body">
-                    <h5 class="card-title">9k+ Test Tocken</h5>
-                    <p class="card-text">Learn Anything</p>
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
                 <div class="card">
-                    <img src="Images/ICON/Students.png" class="card-img-top" alt="...">
+                    <img src="..." class="card-img-top" alt="...">
                     <div class="card-body">
-                      <h5 class="card-title">2000+ Students</h5>
-                      <p class="card-text">Learn Anything</p>
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                     </div>
                 </div>
               </div>
         </div>
     </section>
-    <div class="part-3">
-      <h1>Online Courses</h1>
-      <div class="card-deck">
-        <div class="card">
-          <img src="Images/Photos/Morder pyschology.png" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Modern Psychology</h5>
-            <p class="card-text">Designation</p>
-            <button class="sign-in-button">Get Started</button>
-          </div>
-          <div class="card-footer">
-            <img src="Images/ICON/calendar.png" alt="">
-            <small class="text-muted">Start April 20, 2021</small>
-            <img src="Images/ICON/people.png" alt="">
-            <small class="text-muted">60 Seats</small>
-          </div>
-        </div>
-        <div class="card">
-          <img src="Images/Photos/Morder psyc.png" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Modern Psychology</h5>
-            <p class="card-text">Designation</p>
-            <button class="sign-in-button">Get Started</button>
-          </div>
-          <div class="card-footer">
-            <img src="Images/ICON/calendar.png" alt="">
-            <small class="text-muted">Start April 20, 2021</small>
-            <img src="Images/ICON/people.png" alt="">
-            <small class="text-muted">60 Seats</small>
-          </div>
-        </div>
-        <div class="card">
-          <img src="Images/Photos/Morder pychons.png" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Modern Psychology</h5>
-            <p class="card-text">Designation</p>
-            <button class="sign-in-button">Get Started</button>
-          </div>
-          <div class="card-footer">
-            <img src="Images/ICON/calendar.png" alt="">
-            <small class="text-muted">Start April 20, 2021</small>
-            <img src="Images/ICON/people.png" alt="">
-            <small class="text-muted">60 Seats</small>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-    
-
-
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
